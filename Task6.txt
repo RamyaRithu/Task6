@@ -1,0 +1,109 @@
+1)Fix the bugs in below snippet
+    <html lang="en">
+    <head>
+        <title>Document
+            <body>
+                guvi
+        </title>
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+Answer: body tag should be in head tag 
+
+2)first and second same question.
+
+3)Design a contact us form with all fields as required.
+
+
+Answer:https://ramyarithu.github.io/contact/
+
+4)Use certain HTML elements to display the following in a HTML page.
+Programming Language
+JavaScript
+Angular
+React
+Vue.js
+Python
+Django Framework
+Flask Framework
+Java
+Spring
+Maven
+Hibernate
+Database
+MySQL
+MongoDB
+Cansandra
+
+Answer:https://ramyarithu.github.io/list/
+
+5)Create an element that helps you to open the https://google.com in separate new tab.
+
+
+Answer:https://ramyarithu.github.io/opengoogle/
+
+6)In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
+
+Answer:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Employee Type</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<form >
+  <label>
+    <input type="radio" name="employeeType" value="salaried">
+    <b>Salaried</b>
+  </label>
+  <br>
+  <label>
+    <input type="radio" name="employeeType" value="ownBusiness">
+    <b>Own Business</b>
+  </label>
+  <br><br>
+  <button class="buttontype" type="submit">Submit</button>
+</form>
+
+</body>
+</html>
+
+label{
+    width: 50px;
+    height: 50px;
+    
+}
+
+.buttontype{
+    background-color: aquamarine;
+    border-radius: 50px;
+
+}
+
+
+8)table:
+
+Answer:https://ramyarithu.github.io/Table/
+
+
+9)Write HTML input tags snippet to show default values for all Form elements.
+
+Answer:https://ramyarithu.github.io/formdefaultvalue/
+
+
+10)In your, HTML page add the below line and Highlight it without using any CSS.
+"HTML & CSS is awesome"
+
+
+<Mark>HTML & CSS is awesome</mark>
