@@ -22,7 +22,11 @@ Answer: body tag should be in head tag
 3)Design a contact us form with all fields as required.
 
 
-Answer:https://ramyarithu.github.io/contact/
+Answer:
+
+Github link:https://github.com/RamyaRithu/contact.git
+
+Deployd link : https://ramyarithu.github.io/contact/
 
 4)Use certain HTML elements to display the following in a HTML page.
 Programming Language
@@ -42,12 +46,18 @@ MySQL
 MongoDB
 Cansandra
 
-Answer:https://ramyarithu.github.io/list/
+
+Answer:
+Github link :https://github.com/RamyaRithu/list.git
+deployed link: https://ramyarithu.github.io/list/
 
 5)Create an element that helps you to open the https://google.com in separate new tab.
 
 
-Answer:https://ramyarithu.github.io/opengoogle/
+Answer:
+Github link: https://github.com/RamyaRithu/opengoogle.git
+
+deployed link: https://ramyarithu.github.io/opengoogle/
 
 6)In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
 
@@ -94,12 +104,16 @@ label{
 
 8)table:
 
-Answer:https://ramyarithu.github.io/Table/
+Answer:
+Github link:https://github.com/RamyaRithu/Table.git
+DEployed link :https://ramyarithu.github.io/Table/
 
 
 9)Write HTML input tags snippet to show default values for all Form elements.
 
-Answer:https://ramyarithu.github.io/formdefaultvalue/
+Answer:
+Github Link:https://github.com/RamyaRithu/formdefaultvalue.git
+Deployed link :https://ramyarithu.github.io/formdefaultvalue/
 
 
 10)In your, HTML page add the below line and Highlight it without using any CSS.
